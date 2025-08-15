@@ -374,6 +374,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Project Owner**: Muhammed Sahal P K  
 **GitHub**: [@sahalpk007](https://github.com/sahalpk007)
 
----
-
-**Made with ❤️ for physics education and interactive learning**
