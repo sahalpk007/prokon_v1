@@ -371,8 +371,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Maintainer**: Sahal PK  
-**Email**: [sahalpk007@email.com](mailto:sahalpk007@email.com)  
+**Project Owner**: Muhammed Sahal P K  
 **GitHub**: [@sahalpk007](https://github.com/sahalpk007)
 
 ---
