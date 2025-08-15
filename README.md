@@ -365,7 +365,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 Links
 
 - **Live Demo**: [View Application](https://interactive-inertia-c2w6.bolt.host/)
-- **GitHub Repository**: [Source Code](https://github.com/sahalpk007/prokon_v1)
+- **GitHub Repository**: [Source Code](https://github.com/sahalpk007/InertiaPhysicsLab)
 - **Issue Tracker**: [Report Bugs](https://github.com/sahalpk007/prokon_v1/issues)
 - **Discussions**: [Community Forum](https://github.com/sahalpk007/prokon_v1/discussions)
 
